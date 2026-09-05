@@ -1,0 +1,16 @@
+# Runtime artifacts
+downloads/*
+!downloads/.gitkeep
+cookies.txt
+ffmpeg.exe
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build
+build/
+dist/
+*.spec
